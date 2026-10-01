@@ -597,7 +597,11 @@ int main() {
 ##### Output 1
 
 ![Screenshot Output Unguided 3](https://raw.githubusercontent.com/Farrel-13/Laporan_Praktikum02/main/output03_1.png)
+
+##### Output 2
 ![Screenshot Output Unguided 3](https://raw.githubusercontent.com/Farrel-13/Laporan_Praktikum02/main/output03_2.png)
+
+##### Output 3
 ![Screenshot Output Unguided 3](https://raw.githubusercontent.com/Farrel-13/Laporan_Praktikum02/main/output03_3.png)
 
 Program menggunakan array arrA yang berisi 10 nilai. Fungsi cariMinimum() digunakan untuk mencari nilai terkecil, sedangkan cariMaksimum() digunakan untuk mencari nilai terbesar. Perhitungan rata-rata dilakukan oleh prosedur hitungRataRata(). Menu program menggunakan switch-case sehingga pengguna dapat memilih operasi yang ingin dilakukan, yaitu menampilkan isi array, mencari nilai maksimum, mencari nilai minimum, dan menghitung nilai rata-rata. Berdasarkan data yang diberikan, nilai minimum adalah 3, nilai maksimum adalah 55, dan nilai rata-ratanya adalah 21,4. Konsep fungsi dan prosedur yang digunakan sesuai dengan materi modul karena fungsi dapat membuat program lebih terstruktur dan mengurangi pengulangan kode.
